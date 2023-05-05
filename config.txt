@@ -1,0 +1,4 @@
+0,0,600,400,/root/myuser/photo/messi.bmp #picrure;      #x, y, w, h, 显示图片在当前pic目录里面
+610,0,190,160,0x3d4a5d00,0xffffff00 #time:      #x, y, w, h， 背景颜色  字体颜色
+610,170,190,230,0xff7f5000,0xffffff00 #weather:       #x, y, w, h， 背景颜色  字体颜色
+0,409,800,70,0xdc143c00,0xffffff00 #rolltext:       #x, y, w, h， 背景颜色  字体颜色
